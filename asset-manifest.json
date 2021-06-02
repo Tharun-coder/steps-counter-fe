@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/steps-counter-fe/static/css/main.df7e2e35.chunk.css",
+    "main.js": "/steps-counter-fe/static/js/main.bb1ec00d.chunk.js",
+    "main.js.map": "/steps-counter-fe/static/js/main.bb1ec00d.chunk.js.map",
+    "runtime-main.js": "/steps-counter-fe/static/js/runtime-main.a5f01a9a.js",
+    "runtime-main.js.map": "/steps-counter-fe/static/js/runtime-main.a5f01a9a.js.map",
+    "static/js/2.08636dcc.chunk.js": "/steps-counter-fe/static/js/2.08636dcc.chunk.js",
+    "static/js/2.08636dcc.chunk.js.map": "/steps-counter-fe/static/js/2.08636dcc.chunk.js.map",
+    "index.html": "/steps-counter-fe/index.html",
+    "static/css/main.df7e2e35.chunk.css.map": "/steps-counter-fe/static/css/main.df7e2e35.chunk.css.map",
+    "static/js/2.08636dcc.chunk.js.LICENSE.txt": "/steps-counter-fe/static/js/2.08636dcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5f01a9a.js",
+    "static/js/2.08636dcc.chunk.js",
+    "static/css/main.df7e2e35.chunk.css",
+    "static/js/main.bb1ec00d.chunk.js"
+  ]
+}
